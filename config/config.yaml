@@ -1,0 +1,14 @@
+shopee:
+  category_id: 11035567
+  limit: 5
+
+tiktok:
+  max_videos: 3
+
+video:
+  output_dir: "./videos"
+  watermark_text: "Đang sale sốc!"
+
+tts:
+  enabled: true
+  lang: "vi"
