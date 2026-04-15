@@ -1,3 +1,3 @@
 #!/bin/bash
 echo "Running pipeline..."
-python3 src/pipeline.py
+python3 scripts/pipeline.py
